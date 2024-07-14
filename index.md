@@ -6,3 +6,6 @@
 python
 print("image credit to owner")
 ```
+- [x] study python
+- [x] study c++
+- [ ] study java
